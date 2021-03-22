@@ -351,7 +351,7 @@
 	<key>HapticFeedbackForEsc</key>
 	<false/>
 	<key>HideScrollbar</key>
-	<true/>
+	<false/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>IRMemory</key>
@@ -891,6 +891,15 @@
 					<key>Text</key>
 					<string>9</string>
 				</dict>
+				<key>0x7f-0x0-0x33</key>
+				<dict>
+					<key>Action</key>
+					<integer>16</integer>
+					<key>Label</key>
+					<string></string>
+					<key>Text</key>
+					<string></string>
+				</dict>
 				<key>0x7f-0x100000-0x0</key>
 				<dict>
 					<key>Action</key>
@@ -1379,6 +1388,8 @@
 			<string>Default</string>
 		</dict>
 	</array>
+	<key>PMPrintingExpandedStateForPrint2</key>
+	<false/>
 	<key>PasteTabToStringTabStopSize</key>
 	<integer>4</integer>
 	<key>PointerActions</key>
@@ -1416,6 +1427,8 @@
 	</dict>
 	<key>PreventEscapeSequenceFromClearingHistory</key>
 	<false/>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
 	<true/>
 	<key>Snippets</key>

@@ -1,4 +1,4 @@
-# My iTerm2 and zsh Configuration
+# My iTerm2 Configuration
 
 ## Install
 
@@ -6,10 +6,4 @@
 
 ```
 Preferences --> General --> Preferences --> Load preferences from a custom folder or URL
-```
-
-### zsh
-
-```sh
-./do.sh --push
 ```

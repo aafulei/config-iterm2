@@ -1,6 +1,4 @@
 *
 !.gitignore
-!.zshrc
 !com.googlecode.iterm2.plist
-!do.sh
 !readme.md
